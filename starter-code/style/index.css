@@ -13,3 +13,17 @@
 .card:hover .card-img-top {
   transform: scale(1.05);
 }
+
+.nav-link {
+  color: black;
+}
+
+.jumbotron {
+  background-color: #FFF;
+}
+
+.container-fluid {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 60px;
+}
